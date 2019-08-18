@@ -1,5 +1,18 @@
 $fn = 96;
 
+/*
+this is an instantiation of the awesome OpenSCAD gear library to accomodate for different glasses
+the original design (https://www.thingiverse.com/thing:3666116) of reittec's polisher
+was made for a glas that is not available at IKEA stores in DE (anymore?).
+This is a first (untested!) attempt to adapt it to a very similar one 
+(https://www.ikea.com/de/de/p/ikea-365-dose-mit-deckel-glas-s79276821/) that is currently available
+in IKEA stores in DE
+
+Warning: this in untested! Print at your own risk!
+*/
+
+stirnrad(2.3,80,10,170,15,0);
+
 /* Bibliothek für Evolventen-Zahnräder
 
 Enthält die Module
