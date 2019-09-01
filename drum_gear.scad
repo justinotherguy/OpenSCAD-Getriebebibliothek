@@ -680,5 +680,5 @@ module schnecke(modul, laenge, bohrung, eingriffswinkel=20, steigungswinkel){
 
 // pfeilkegelradpaar(modul=1, zahnzahl_rad=30, zahnzahl_ritzel=11, achsenwinkel=100, zahnbreite=5, bohrung=4, eingriffswinkel = 20, schraegungswinkel=30, zusammen_gebaut=1);
 
-schnecke(modul=1, laenge=10, bohrung=4, eingriffswinkel=30, steigungswinkel=10);
+//schnecke(modul=1, laenge=10, bohrung=4, eingriffswinkel=30, steigungswinkel=10);
 
